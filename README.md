@@ -26,11 +26,11 @@ It evaluates where wages are strong, where price pressure is low, and where risk
 
 ### 2. Market Size & Income
 *Analyzes market volume by comparing population distribution against minimum wage capacity.*
-![Market Size](images/page2.png)
+![Market Size](image/)
 
 ### 3. Risk Assessment (Inflation & Cost Risks)
 *A risk mitigation matrix dissecting monthly price index dynamics and highlighting provinces operating in the highest pressure zones.*
-![Risk Assessment](images/page3.png)
+![Risk Assessment](image/Inflation_Cost-Risk_page3.png)
 
 ---
 
