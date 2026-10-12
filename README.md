@@ -7,7 +7,7 @@ Expansion plans often follow population size, but a large market with weak purch
 
 It evaluates where wages are strong, where price pressure is low, and where risk is building to help executive management make data-driven decisions on new branch expansions.
 
-**[👉 Click here to view the PDF version of this dashboard](link-to-your-pdf-file.pdf)**
+**[👉 Click here to view the PDF report version of this dashboard](link-to-your-pdf-file.pdf)**
 
 ## 🎯 Key Objectives
 1. **Find Expansion Sweet Spots:** Balance purchasing power against cost risks.
