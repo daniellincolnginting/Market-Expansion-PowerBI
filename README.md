@@ -72,7 +72,7 @@ For recruiters or data professionals who wish to explore the data model, Star Sc
 ---
 ### 🤝 Let's Connect & Collaborate
 **Daniel Lincoln Ginting**  
-*Making the complex simple.*
+*Data Analyst & Project Management Enthusiast*
 
 📧 Email: daniellincolnginting05@gmail.com  
 💼 LinkedIn: [linkedin.com/in/daniellincolnginting](https://linkedin.com/in/daniellincolnginting/)
