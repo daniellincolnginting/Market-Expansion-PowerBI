@@ -22,7 +22,7 @@ It evaluates where wages are strong, where price pressure is low, and where risk
 
 ### 1. Executive Summary
 *Provides a helicopter view of the top target provinces based on the Market Score, highlighting the balance between purchasing power and inflation risks.*
-![Executive Summary](images/page1.png)
+![Executive Summary](images/Executive Summary (Page 1).png)
 
 ### 2. Market Size & Income
 *Analyzes market volume by comparing population distribution against minimum wage capacity.*
